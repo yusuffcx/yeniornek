@@ -46,7 +46,7 @@ class _MainState extends State<MainPage> {
   Widget Content() {
     return Container(
       child: CarouselSlider(
-        items: [1, 2, 3].map((i) {
+        items: [1, 2, 3, 4, 5].map((i) {
           return Container(
             width: MediaQuery.of(context).size.width,
             margin: const EdgeInsets.symmetric(horizontal: 5),
