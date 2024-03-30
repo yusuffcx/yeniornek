@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "Car Rental APP",
+      title: "Car Rental APPppppp",
       home: const MainPage(),
       theme: ThemeData.light().copyWith(
           appBarTheme: const AppBarTheme(
